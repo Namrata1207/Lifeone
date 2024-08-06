@@ -751,6 +751,7 @@
     <Compile Include="Models\HomeManagement\HEntity\MCustomerRegistration.cs" />
     <Compile Include="Models\HomeManagement\HEntity\MForgotPassword.cs" />
     <Compile Include="Models\HomeManagement\HEntity\MLogin.cs" />
+    <Compile Include="Models\HomeManagement\HEntity\TermsCondition.cs" />
     <Compile Include="Models\HomeManagement\HEntity\_CommonModel.cs" />
     <Compile Include="Models\HomeManagement\HService\ContactService.cs" />
     <Compile Include="Models\HomeManagement\HService\CustomerRegService.cs" />

@@ -1548,6 +1548,7 @@
     <Content Include="Areas\Admin\Views\AdminReport\RefundAmount.cshtml" />
     <Content Include="Areas\Associate\Views\AssociateRegistration\AssociateCongratulations.cshtml" />
     <Content Include="Areas\Admin\Views\Admin\AdminRagistration.cshtml" />
+    <Content Include="Areas\Associate\Views\AssociateReport\RewardsandRecogination.cshtml" />
     <None Include="Content\Associate\assets\css\app.min.css_old" />
     <Content Include="Content\Associate\assets\css\app.min.css" />
     <Content Include="Content\Associate\assets\css\bootstrap-dark.min.css" />
